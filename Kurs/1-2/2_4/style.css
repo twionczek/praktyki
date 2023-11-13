@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+}
+
+header p {
+  color: green;
+}
+header p.warning {
+  color: red;
+}
+
+/*# sourceMappingURL=style.css.map */

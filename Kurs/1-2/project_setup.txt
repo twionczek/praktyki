@@ -1,0 +1,2 @@
+1. Otwórz terminal w katalogu z projektem i wykonaj polecenie npm install
+2. Wykonaj polecenie npm run dev lub polecenie gulp (jeśli zainstalowałeś gulp-cli) aby uruchomić projekt

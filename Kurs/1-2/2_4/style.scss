@@ -1,0 +1,14 @@
+$primary : red;
+$secondary : green;
+h1 {
+    color: $primary;
+}
+header {
+    p {
+        color: $secondary;
+
+        &.warning {
+            color: $primary;
+        }
+    }
+}
